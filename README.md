@@ -1,0 +1,2 @@
+# latestlog
+latest.log
